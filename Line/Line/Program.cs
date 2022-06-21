@@ -18,6 +18,8 @@ namespace Line
             UC2 u2 = new UC2();
             u2.EqualityOfLines();
 
+            Class1.DisplayMessage();
+
         }
 
 
